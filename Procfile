@@ -1,1 +1,1 @@
-worker node index.js Blue
+worker node server.js Blue
